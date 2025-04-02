@@ -33,8 +33,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <source>2.3.2</source>
+          <target>2.3.2</target>
         </configuration>
       </plugin>
 
