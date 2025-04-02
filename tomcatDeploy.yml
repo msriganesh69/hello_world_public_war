@@ -33,3 +33,4 @@
   handlers:
     - name: Restart tomcat
       service: name=tomcat state=restarted
+      
